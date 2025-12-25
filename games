@@ -1,5 +1,10 @@
 local Games = {
     [89517629269162] = "https://raw.githubusercontent.com/sosopjs/xyetaaneigra/refs/heads/main/workscript" 
-  }
+}
 
-  return Games
+
+if not Games[game.PlaceId] then
+    game.Players.LocalPlayer:Kick("no support game")
+end
+
+return Games
