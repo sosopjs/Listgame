@@ -1,5 +1,5 @@
 local Games = {
-    [89517629269162] = "https://raw.githubusercontent.com/sosopjs/Listgame/refs/heads/main/games" 
+    [89517629269162] = "https://raw.githubusercontent.com/sosopjs/xyetaaneigra/refs/heads/main/workscript" 
   }
 
   return Games
