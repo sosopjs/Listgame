@@ -1,10 +1,10 @@
 local Games = {
-    [89517629269162] = "https://raw.githubusercontent.com/sosopjs/xyetaaneigra/refs/heads/main/workscript" 
+    [89517629269162] = "https://raw.githubusercontent.com/sosopjs/xyetaaneigra/refs/heads/main/workscript" -- verdant slap tower
 }
 
 
 if not Games[game.PlaceId] then
-    game.Players.LocalPlayer:Kick("no support game")
+    game.Players.LocalPlayer:Kick("Soryy, this game not support!")
 end
 
 return Games
