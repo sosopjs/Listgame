@@ -1,7 +1,7 @@
 local Games = {
     [89517629269162] = "https://raw.githubusercontent.com/sosopjs/xyetaaneigra/refs/heads/main/workscript", -- verdant slap tower
     [102871156420149] = "https://raw.githubusercontent.com/sosopjs/LOST-FRONT-SCRIPT/refs/heads/main/LOST%20FRONT%20SOURCE", -- lost front
-    [13772394625] = "https://raw.githubusercontent.com/sosopjs/Blade-ball-script/refs/heads/main/dddd.lua" -- blade ball
+    [13772394625] = "https://raw.githubusercontent.com/sosopjs/Blade-ball-script/refs/heads/main/xyi-kakashka" -- blade ball
 }
 
 
